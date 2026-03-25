@@ -12,7 +12,8 @@
 			"name": "webtop",
 			"class_name": "Webtop",
 			"image": "./Dockerfile",
-			"max_instances": 10,
+			"max_instances": 1,
+			"instance_type": "standard-2"
 		},
 	],
 	"migrations": [
